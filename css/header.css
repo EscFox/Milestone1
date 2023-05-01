@@ -1,0 +1,14 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    border:0;
+  }
+
+#header_bgimg{
+
+}
+
+.navbar-nav li a {
+    font-size: 1.5rem;
+}
+
