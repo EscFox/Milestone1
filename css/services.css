@@ -1,10 +1,15 @@
 
-#officeSpace>div>h3{
+#officeSpace>div>h3,
+#deskviews>div>h3,
+#therooms>div>h3{
     font-family: "Raleway", sans-serif;
     font-weight: 500;
 }
 
-#officeSpace>div span{
-    color: var(--primarycolor)
+#officeSpace>div span,
+#deskviews>div span,
+#therooms>div span{
+    color: var(--primarycolor);
+    font-weight: 700;
 }
 
