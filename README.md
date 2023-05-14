@@ -16,3 +16,7 @@ Al trasladarlo a la pagina web seguia sin convencerme, los colores, el layout. H
 Nom-Conn, es una empresa orientada no solo para los nomadas digitales sino para cualquier trabajador remoto que quiere disfrutar de una experiencia unica.
 
 Nom-conn es una casa en un marco natural incomparable en la selva costaricense.
+
+Me decido por usar dos tipos de fuentes:
+-Questrial
+-Raleway
