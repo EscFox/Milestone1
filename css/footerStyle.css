@@ -4,9 +4,19 @@
 
 #menuFooter{
     background: black;
+    /* font-weight: 100; */
 }
 
 #menuFooter>ul>li>a{
-    font-family: "Questrial", sans-serif;
-    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: 100;
+    color: white;    
 }
+
+.nav-link:hover{
+    border-bottom:1px solid white;
+    transition-property: border-bottom;
+    transition-delay: 0.2s;
+    transition-duration:0.2s;
+  }
+
