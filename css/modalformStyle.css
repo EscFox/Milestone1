@@ -1,0 +1,21 @@
+#bookingform{
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+#bookingform .modal-footer button {
+    font-weight: 100;
+}
+
+
+#bookingform .modal-footer button:nth-child(1) {
+    background: var(--primarycolor);
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 2rem;
+}
+#bookingform .modal-footer button:nth-child(2) {
+    background:black;
+    font-size: 1.2rem;
+    border-radius: 2rem;
+}
