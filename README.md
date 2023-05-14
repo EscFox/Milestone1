@@ -1,5 +1,17 @@
 # NOM-CONN
 
+#
+To visit the page, go to:
+[https://escfox.github.io/Milestone1/](https://escfox.github.io/Milestone1/)
+
+The githuba link:
+[https://escfox.github.io/Milestone1/](https://escfox.github.io/Milestone1/)
+
+To clone it, use:
+
+git clone git@github.com:EscFox/Milestone1.git
+#
+
 Nom-Conn is a service offering accommodation and activity provider for those workers known as digital nomads who can perform their work in remote locations.
 
 Nom-Conn offers a wide range of services and activities that encourage the professional and personal connectivity of those who visit their facilities.
