@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="./css/headerStyle.css">
     <link rel="stylesheet" href="./css/homepage.css">
     <link rel="stylesheet" href="./css/footerStyle.css">
-    <link rel="stylesheet" href="./css/modalformStyle.css">
 </head>
 <body>
 
@@ -41,7 +40,7 @@
                     <a href="#" class="nav-link">Activites</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link" data-toggle="modal" data-target="#bookingform">Book</a>
+                    <a href="#" class="nav-link">Book</a>
                 </li>
             </ul>
         </div>
@@ -52,7 +51,7 @@
             <h3 class="display-5 mb-0"></h3>
             <h1 class="display-1">NOM-CONN</h1>
             <p class="lead d-none d-md-block"><span>Work</span> where you Love, <span>Love</span> where you Work.</p>
-            <button id="btnBooking" class="btn btn-lg px-5" data-toggle="modal" data-target="#bookingform">BOOK NOW</button>
+            <button id="btnBooking" class="btn btn-lg px-5">BOOK NOW</button>
         </div>
     </section>
 
@@ -166,59 +165,10 @@
                 <a href="#" class="nav-link">Activites</a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-link" data-toggle="modal" data-target="#bookingform">Book</a>
+                <a href="#" class="nav-link">Book</a>
             </li>
         </ul>
     </section>
-
-
-    <!-- MODAL FORM -->
-    <div id="bookingform" class="modal" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title">Contact Us</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <form>
-                        <div class="form-group">
-                            <label for="name">Full Name.</label>
-                            <input type="text" class="form-control" id="name" placeholder="Full Name">
-                        </form-group>
-
-                        <div class="form-group">
-                            <label for="email">Email Address.</label>
-                            <input type="email" class="form-control" id="email" placeholder="name@domain.com">
-                        </form-group>
-                                          
-                        <div class="form-group">
-                            <label for="date">Date of Entry</label>
-                            <input type="date" class="form-control" id="date">
-                        </div>
-
-                        <div class="form-group">
-                            <label for="numDays">Number of Days</label>
-                            <input type="text" class="form-control" id="numDays">
-                        </form-group>
-
-                        <div class="form-group">
-                            <label for="requests">Additional comments</label>
-                            <textarea rows="3" class="form-control" id="requests"></textarea>
-                        </form-group>
-                        
-                    </form>
-                </div>
-                <div class="modal-footer">
-                    <button id="SendModalFormbtn" class="btn btn-primary">Submit Request</button>
-                    <button class="btn btn-primary" data-dismiss=""modal>Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

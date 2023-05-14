@@ -21,14 +21,18 @@
 }
 
 #showcase{
-  /* background: url("../assets/img/LaptopBackAndCoffe1.jpeg") bottom center / cover no-repeat;  */
-  /* background: url("../assets/img/LaptopBackAndCoffee2.jpeg") bottom center / cover no-repeat; */
+  
   background: url("../assets/img/LaptopBackCoffeAndTablet.jpeg") bottom center / cover no-repeat;
-  /* background: url("../assets/img/LaptopWhiteAndCoffee.jpeg") bottom center / cover no-repeat; */
-  /* background: url("../assets/img/laptopWhiteAndCoffee2.jpeg") bottom center / cover no-repeat; */
   min-height:750px;
   position:relative;
 }
+
+/* #showcase:hover{
+  background: url("../assets/img/LaptopBackAndCoffee2.jpeg") bottom center / cover no-repeat; 
+  transition-property: background;
+  transition-delay: 0.4s;
+  transition-duration:0.1s;
+} */
 
 #showcase>#overlay{
   background: rgba(0,0,0,0.3);
