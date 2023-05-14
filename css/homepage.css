@@ -1,0 +1,15 @@
+#theCottage{
+    background-color: #f1f1f1;
+    /* background-color: var(--primarycolor); */
+}
+#theCottage>div>div>div>div>div>h2{
+    color: var(--primarycolor);
+}
+
+#theCottage>div>div>div>div>div>a{
+    border: 1px solid var(--primarycolor);
+    color: var(--primarycolor);
+    background-color: transparent;
+    padding: 0.5em 1em;
+    border-radius:20px;
+}

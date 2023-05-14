@@ -5,63 +5,141 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Milestone1</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="./css/header.css">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Questrial&family=Raleway:wght@100;300;500;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./css/globalStyle.css">
+    <link rel="stylesheet" href="./css/headerStyle.css">
+    <link rel="stylesheet" href="./css/homepage.css">
 </head>
 <body>
-    <header>
-            <div class="container">
-                <nav class="navbar navbar-expand-lg navbar-light">
-                    <a class="navbar-brand mr-auto mt-3" href="index.html">
-                        <img src="./assets/img/Logo2.png" alt="Logo corp" class="d-block d-lg-none" style="max-width: 40%;">
-                        <img src="./assets/img/CompanyNamePlusLogo.png" alt="Company Name" class="d-none d-lg-block" style="max-width: 50%">
-                    </a>
-                    <!-- <div class="" id="slogan">
-                        <p>Work where you love, love where you work</p>
-                         <p> Where work and play meet in harmony"</p> 
-                    </div> -->
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-                        <ul class="navbar-nav py-0 mt">
-                            <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Services</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </nav>
-            </div>
-    </header>
-    <footer class="bg-light py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-md-4 text-center text-md-left">
-              <a href="#header_bgimg"><i class="fas fa-arrow-up"></i></a>
-            </div>
-            <div class="col-12 col-md-4 text-center">
-              <img src="./assets/img/logo.png" alt="Logo" class="mb-2" style="max-width: 100px;">
-              <div class="d-flex justify-content-center">
-                <a href="#"><i class="fab fa-facebook mx-2"></i></a>
-                <a href="#"><i class="fab fa-twitter mx-2"></i></a>
-                <a href="#"><i class="fab fa-instagram mx-2"></i></a>
-                <a href="#"><i class="fab fa-linkedin mx-2"></i></a>
-              </div>
-              <p class="my-2">Nombre de la empresa</p>
-            </div>
-            <div class="col-12 col-md-4 text-center text-md-right">
-              <p>Contact Details:</p>
-              <p>Phone: 123-456-7890</p>
-              <p>Email: info@nomconn.com</p>
-              <p>Address: 123 Main Street</p>
-            </div>
-          </div>
-        </div>
-      </footer>
-</body>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-</html> 
 
+    <nav class="navbar navbar-expand-md navbar-dark">
+
+        <a href="#" class="navbar-brand">
+            <!-- <h3 class="mb-0">Aurora Grove</h3> -->
+            <img src="./assets/img/Logos/LogoName.svg" alt="" srcset="">
+        </a>
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#mainNavBar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="mainNavBar">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Services</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Activites</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Book</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <section  id="showcase" class="d-flex align-items-center">
+        <div id="overlay" class="overlay"></div>
+        <div class="header container text-white text-center">
+            <h3 class="display-5 mb-0"></h3>
+            <h1 class="display-1">NOM-CONN</h1>
+            <p class="lead d-none d-md-block"><span>Work</span> where you Love, <span>Love</span> where you Work.</p>
+            <button id="btnBooking" class="btn btn-lg px-5">BOOK NOW</button>
+        </div>
+    </section>
+
+    <section id="summary">
+        <div class="container text-center p-4">
+            <h2>Elevate your digital nomad experience.</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="./assets/img/networking_resized.svg" alt="" class="img-fluid d-none d-md-inline">
+                    <h3>Networking</h3>
+                    <p class="lead">Improve your business, meet new people, build new professional relationships.</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/img/mountainBike_Resize.png" alt="" class="img-fluid d-none d-md-inline">
+                    <h3>Activies</h3>
+                    <p class="lead">Enjoy outdoor activities, hiking and mountain biking trails, canoeing, in the breathtaking landscapes of the Costa Rican rainforest..</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/img/cottage_resized.png" alt="" class="img-fluid d-none d-md-inline">
+                    <h3>The House</h3>
+                    <p class="lead">Enjoy the facilities provided by the house, such as meeting rooms and high-speed internet.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="theCottage">
+        <div class="container text-center p-4">
+            <h3>Enter the Cottage, choose your workspace.</h3>
+            <div class="row m-4">
+                <div class="col-md-6 p-3">
+                    <div class="card">
+                        <img src="./assets/img/House/countryHouseFit_scaled.jpg" alt="" srcset="">
+                        <div class="card-body">
+                            <h2 id="hdLineCottage" class="card-title">The Cottage</h2>
+                            <p class="card-text"> The cottage offers all the services that will make your stay unforgettable.</p>
+                            <a href="" class="btn bth-lg">Visit the Cottage</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 p-3">
+                    <div class="card">
+                        <img src="./assets/img/deskviews/DesktopWithViews.jpg" alt="" srcset="">
+                        <div class="card-body">
+                            <h2 id="hdLineCottage" class="card-title">The Workspace</h2>
+                            <p class="card-text"> Discover the different workspaces available, including meeting rooms and desks with views of the jungle.</p>
+                            <a href="" class="btn bth-lg">The Workspace</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="reviews">
+        <div class="container text-center p-4">
+            <h3>OUR CUSTOMERS LOVE IT</h3>
+            <div class="row mt-4">
+                <div class="col-md-4">
+                    <i class="fas fa-quote-left fa-2xl mb-3"></i>
+                    <blockquote class="blockquote my-2">
+                        <p class="mb-0">An unforgettable experience, working in such a setting and feeling at home.</p>
+                        <footer class="blockquote-footer">Johnny Mnemonic</footer>
+                    </blockquote>
+                </div>
+
+                <div class="col-md-4">
+                    <i class="fas fa-quote-left fa-2xl mb-3"></i>
+                    <blockquote class="blockquote my-2">
+                        <p class="mb-0">The atmosphere of cooperation is so incredible that time flies by.</p>
+                        <footer class="blockquote-footer">Chewbacca</footer>
+                    </blockquote>
+                </div>
+
+                <div class="col-md-4">
+                    <i class="fas fa-quote-left fa-2xl mb-3"></i>
+                    <blockquote class="blockquote my-2">
+                        <p class="mb-0">I have met professionals who are now my coworkers. It's unbeatable.</p>
+                        <footer class="blockquote-footer">Max Rockatansky</footer>
+                    </blockquote>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+
+</body>
+</html> 
