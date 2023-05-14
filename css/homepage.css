@@ -1,6 +1,6 @@
 #theCottage{
-    background-color: #f1f1f1;
-    /* background-color: var(--primarycolor); */
+    /* background-color: #f1f1f1; */
+    background-color: var(--secundarycolor);
 }
 #theCottage>div>div>div>div>div>h2{
     color: var(--primarycolor);
