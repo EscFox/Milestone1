@@ -4,7 +4,7 @@
 To visit the page, go to:
 [https://escfox.github.io/Milestone1/](https://escfox.github.io/Milestone1/)
 
-The githuba link:
+The github link:
 [https://escfox.github.io/Milestone1/](https://escfox.github.io/Milestone1/)
 
 To clone it, use:
