@@ -5,7 +5,7 @@ To visit the page, go to:
 [https://escfox.github.io/Milestone1/](https://escfox.github.io/Milestone1/)
 
 The github link:
-[https://escfox.github.io/Milestone1/](https://escfox.github.io/Milestone1/)
+[git@github.com:EscFox/Milestone1.git/](git@github.com:EscFox/Milestone1.git/)
 
 To clone it, use:
 
@@ -137,6 +137,27 @@ In this project, we have conducted several tests to analyze the functionality, p
 ## Lighthouse Reports
 
 We have also generated Lighthouse reports using Google DevTools. Click the links below to open the reports in a new tab.
+
+- [Lighthouse Report for Index (Desktop)](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Desktop.jpg)
+  - ![View Image](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Desktop.jpg)
+
+- [Lighthouse Report for Index (Mobile)](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Mobile.jpg)
+  - ![View Image](./performanceResults/LightHouse_Index_Mobile.jpgLightHouse_Index_Desktop.jpg)
+
+- [Lighthouse Report for Services (Desktop)](./performanceResults/LightHouse_Services_Desktop.jpg)
+  - ![View Image](./performanceResults/LightHouse_Services_Desktop.jpg)
+
+- [Lighthouse Report for Services (Mobile)](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Mobile.jpg)
+  - ![View Image](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Mobile.jpg)
+
+- [Lighthouse Report for Activities (Desktop)](./performanceResults/LightHouse_Activities_Desktop.jpg)
+  - ![View Image](./performanceResults/LightHouse_Activities_Desktop.jpg)
+
+- [Lighthouse Report for Activities (Mobile)](./performanceResults/LightHouse_Activities_Desktop.jpg)
+  - ![View Image](./performanceResults/LightHouse_Activities_Mobile.jpg)
+
+
+
 
 - [Lighthouse Report for Index (Desktop)](./escfox.github.io-20230518T095837_home_desktop.html)
 - [Lighthouse Report for Index (Mobile)](./escfox.github.io-20230518T100251_home_mobile.html)
