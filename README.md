@@ -138,14 +138,14 @@ In this project, we have conducted several tests to analyze the functionality, p
 
 We have also generated Lighthouse reports using Google DevTools. Click the links below to open the reports in a new tab.
 
-- [Lighthouse Report for Index (Desktop)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_home_desktop.html){:target="_blank"}
-- [Lighthouse Report for Index (Mobile)](./Milestone1/performanceResults/escfox.github.io-20230518T100251_home_mobile.html){:target="_blank"}
+- [Lighthouse Report for Index (Desktop)](./performanceResults/escfox.github.io-20230518T095837_home_desktop.html){:target="_blank"}
+- [Lighthouse Report for Index (Mobile)](./performanceResults/escfox.github.io-20230518T100251_home_mobile.html){:target="_blank"}
 
-- [Lighthouse Report for Services (Desktop)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_services_desktop.html){:target="_blank"}
-- [Lighthouse Report for Services (Mobile)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_services_mobile.html){:target="_blank"}
+- [Lighthouse Report for Services (Desktop)](./performanceResults/escfox.github.io-20230518T095837_services_desktop.html){:target="_blank"}
+- [Lighthouse Report for Services (Mobile)](./performanceResults/escfox.github.io-20230518T095837_services_mobile.html){:target="_blank"}
 
-- [Lighthouse Report for Activities (Desktop)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_activties_desktop.html){:target="_blank"}
-- [Lighthouse Report for Activities (Mobile)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_activties_mobile.html){:target="_blank"}
+- [Lighthouse Report for Activities (Desktop)](./performanceResults/escfox.github.io-20230518T095837_activties_desktop.html){:target="_blank"}
+- [Lighthouse Report for Activities (Mobile)](./performanceResults/escfox.github.io-20230518T095837_activties_mobile.html){:target="_blank"}
 
 
 
