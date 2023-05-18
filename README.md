@@ -22,7 +22,7 @@
     - [Lighthouse Reports](#lighthouse-reports)
 12. [Experience and Personal Opinion](#experience-and-personal-opinion)
 
-[Up](#NOM-CONN)#
+[Up](#NOM-CONN)
 ## RELEVANT LINKS
 To visit the page, go to:
 [https://escfox.github.io/Milestone1/](https://escfox.github.io/Milestone1/)
@@ -34,7 +34,7 @@ To clone it, use:
 
 git clone git@github.com:EscFox/Milestone1.git
 #
-
+[Up](#NOM-CONN)
 ## DESCRIPTION
 Nom-Conn is a service offering accommodation and activity provider for those workers known as digital nomads who can perform their work in remote locations.
 
@@ -42,6 +42,7 @@ Nom-Conn offers a wide range of services and activities that encourage the profe
 
 Located in the unique setting of the Costa Rican jungle, Nom-Conn makes remote work an unforgettable experience.
 
+[Up](#NOM-CONN)
 ## Technology
 
 The following technologies are used:
@@ -49,6 +50,7 @@ The following technologies are used:
 - CSS 3
 - Bootstrap V4.6.2
 
+[Up](#NOM-CONN)
 ## External Tools
 
 In addition to the technologies purely for creating the website, two external tools are used for logo design and image editing:
@@ -57,12 +59,14 @@ In addition to the technologies purely for creating the website, two external to
 - Git
 - GitHub
 
+[Up](#NOM-CONN)
 ## Typography
 
 I have chosen the combination of:
 - Questrial
 - Raleway
 
+[Up](#NOM-CONN)
 ## Color Scheme
 
 The color palette consists of 4 colors, offering an elegant result:
@@ -78,17 +82,20 @@ The color palette consists of 4 colors, offering an elegant result:
 - #1f1f1f: 
 ![Image](./pallete/1F1F1F.jpg)
 
+[Up](#NOM-CONN)
 ## Imagery
 
 The main resources for accessing photographs and images are:
 - [Unsplash](https://unsplash.com)
 - [Adobe Stock](https://stock.adobe.com/)
 
+[Up](#NOM-CONN)
 ## Icons
 
 Regarding icons, they come from a single source:
 - [Font Awesome](https://fontawesome.com/)
 
+[Up](#NOM-CONN)
 ## Web Page Design
 
 The web page is designed with a mobile-first approach, making it fully responsive and adaptable to different devices.
@@ -117,6 +124,7 @@ Regarding the pages, there are three main pages and a modal form:
 
 - **Modal Form:** From any page, users can access the modal form that overlays the current page.
 
+[Up](#NOM-CONN)
 ## File Structure
 
 The website is composed of:
@@ -139,10 +147,12 @@ The website is composed of:
 Distributing the CSS properties across different files facilitates development and future modifications.
 
 
+[Up](#NOM-CONN)
 # Performance and Functionality Analysis
 
 In this project, we have conducted several tests to analyze the functionality, performance, and other aspects of our website. Below are the results and corresponding links to the testing tools used.
 
+[Up](#NOM-CONN)
 ## HTML Checker
 
 - <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Findex.html" target="_blank">HTML Checker for index.html</a>
@@ -189,8 +199,7 @@ We have also generated Lighthouse reports using Google DevTools. Click the links
 
 
 
-
-
+[Up](#NOM-CONN)
 ## Experience and Personal Opinion
 
 The biggest challenge I encountered was the design aspect. Although there were some technical challenges, not having a clear vision of the website structure caused the most delays. Once I had a clear design and structure in place, composing the HTML and using Bootstrap became much smoother.
