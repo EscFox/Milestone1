@@ -1,5 +1,26 @@
 # NOM-CONN
 
+# Table of Contents
+
+
+3. [Relevant Links](#relevant-links)
+4. [Technology](#technology)
+5. [External Tools](#external-tools)
+6. [Typography](#typography)
+7. [Color Scheme](#color-scheme)
+8. [Imagery](#imagery)
+9. [Icons](#icons)
+10. [Web Page Design](#web-page-design)
+  - [Header](#header)
+  - [Body](#body)
+  - [Footer](#footer)
+- [File Structure](#file-structure)
+11. [Performance and Functionality Analysis](#performance-and-functionality-analysis)
+   - [HTML Checker](#html-checker)
+   - [W3C CSS Validation Service](#w3c-css-validation-service)
+   - [Lighthouse Reports](#lighthouse-reports)
+12. [Experience and Personal Opinion](#experience-and-personal-opinion)
+
 #
 ## RELEVANT LINKS
 To visit the page, go to:
