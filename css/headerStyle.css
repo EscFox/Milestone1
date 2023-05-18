@@ -68,10 +68,10 @@
 @media(max-width: 768px){
   .navbar{
       background: #1f1f1f;
-      .nav-link:hover{
-          border-bottom:none;
-      }
   }
+  .nav-link:hover{
+    border-bottom:none;
+}
 
   #showcase{
       min-height:500px;
