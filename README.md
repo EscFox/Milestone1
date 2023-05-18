@@ -90,7 +90,7 @@ The color palette consists of 4 colors, offering an elegant result:
 - #1f1f1f: 
 ![Image](./pallete/1F1F1F.jpg)
 
-[Up](#table-of-contents)
+[Back to Top](#table-of-contents)
 
 ## Imagery
 
