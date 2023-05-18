@@ -12,15 +12,15 @@
 7. [Imagery](#imagery)
 8. [Icons](#icons)
 9. [Web Page Design](#web-page-design)
-  - [Header](#header)
-  - [Body](#body)
-  - [Footer](#footer)
-- [File Structure](#file-structure)
-10. [Performance and Functionality Analysis](#performance-and-functionality-analysis)
+    - [Header](#header)
+    - [Body](#body)
+    - [Footer](#footer)
+10. [File Structure](#file-structure)
+11. [Performance and Functionality Analysis](#performance-and-functionality-analysis)
    - [HTML Checker](#html-checker)
    - [W3C CSS Validation Service](#w3c-css-validation-service)
    - [Lighthouse Reports](#lighthouse-reports)
-11. [Experience and Personal Opinion](#experience-and-personal-opinion)
+12. [Experience and Personal Opinion](#experience-and-personal-opinion)
 
 #
 ## RELEVANT LINKS
