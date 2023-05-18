@@ -114,38 +114,38 @@ In this project, we have conducted several tests to analyze the functionality, p
 
 ## HTML Checker
 
-- [HTML Checker for index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Findex.html)
+- [HTML Checker for index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Findex.html){:target="_blank"}
   - Comment: The HTML of the index.html page was validated using the HTML Checker tool. Click the link to view the results.
 
-- [HTML Checker for services.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Fservices.html)
+- [HTML Checker for services.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Fservices.html){:target="_blank"}
   - Comment: The HTML of the services.html page was validated using the HTML Checker tool. Click the link to view the results.
 
-- [HTML Checker for activities.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Factivities.html)
+- [HTML Checker for activities.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Factivities.html){:target="_blank"}
   - Comment: The HTML of the activities.html page was validated using the HTML Checker tool. Click the link to view the results.
 
 ## W3C CSS Validation Service
 
-- [CSS Validation for index.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- [CSS Validation for index.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en){:target="_blank"}
   - Comment: The CSS of the index.html page was validated using the W3C CSS Validation Service. Click the link to view the results.
 
-- [CSS Validation for services.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Fservices.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- [CSS Validation for services.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Fservices.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en){:target="_blank"}
   - Comment: The CSS of the services.html page was validated using the W3C CSS Validation Service. Click the link to view the results.
 
-- [CSS Validation for activities.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Factivities.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- [CSS Validation for activities.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fescfox.github.io%2FMilestone1%2Factivities.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en){:target="_blank"}
   - Comment: The CSS of the activities.html page was validated using the W3C CSS Validation Service. Click the link to view the results.
 
 ## Lighthouse Reports
 
 We have also generated Lighthouse reports using Google DevTools. Click the links below to open the reports in a new tab.
 
-- [Lighthouse Report for Index (Desktop)](./performanceResults/escfox.github.io-20230518T095837_home_desktop.html)
-- [Lighthouse Report for Index (Mobile)](./performanceResults/escfox.github.io-20230518T100251_home_mobile.html)
+- [Lighthouse Report for Index (Desktop)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_home_desktop.html){:target="_blank"}
+- [Lighthouse Report for Index (Mobile)](./Milestone1/performanceResults/escfox.github.io-20230518T100251_home_mobile.html){:target="_blank"}
 
-- [Lighthouse Report for Services (Desktop)](./performanceResults/escfox.github.io-20230518T095837_services_desktop.html)
-- [Lighthouse Report for Services (Mobile)](./performanceResults/escfox.github.io-20230518T095837_services_mobile.html)
+- [Lighthouse Report for Services (Desktop)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_services_desktop.html){:target="_blank"}
+- [Lighthouse Report for Services (Mobile)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_services_mobile.html){:target="_blank"}
 
-- [Lighthouse Report for Activities (Desktop)](./performanceResults/escfox.github.io-20230518T095837_activties_desktop.html)
-- [Lighthouse Report for Activities (Mobile)](./performanceResults/escfox.github.io-20230518T095837_activties_mobile.html)
+- [Lighthouse Report for Activities (Desktop)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_activties_desktop.html){:target="_blank"}
+- [Lighthouse Report for Activities (Mobile)](./Milestone1/performanceResults/escfox.github.io-20230518T095837_activties_mobile.html){:target="_blank"}
 
 
 
