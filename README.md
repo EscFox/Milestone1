@@ -138,16 +138,16 @@ In this project, we have conducted several tests to analyze the functionality, p
 
 We have also generated Lighthouse reports using Google DevTools. Click the links below to open the reports in a new tab.
 
-- [Lighthouse Report for Index (Desktop)](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Desktop.jpg)
+- [Lighthouse Report for Index (Desktop)](./performanceResults/LightHouse_Index_Desktop.jpg)
   - ![View Image](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Desktop.jpg)
 
-- [Lighthouse Report for Index (Mobile)](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Mobile.jpg)
+- [Lighthouse Report for Index (Mobile)](./performanceResults/LightHouse_Index_Mobile.jpg)
   - ![View Image](./performanceResults/LightHouse_Index_Mobile.jpgLightHouse_Index_Desktop.jpg)
 
 - [Lighthouse Report for Services (Desktop)](./performanceResults/LightHouse_Services_Desktop.jpg)
   - ![View Image](./performanceResults/LightHouse_Services_Desktop.jpg)
 
-- [Lighthouse Report for Services (Mobile)](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Mobile.jpg)
+- [Lighthouse Report for Services (Mobile)](./performanceResults/LightHouse_Index_Mobile.jpg)
   - ![View Image](./performanceResults/LightHouse_Index_Desktop.jpgLightHouse_Index_Mobile.jpg)
 
 - [Lighthouse Report for Activities (Desktop)](./performanceResults/LightHouse_Activities_Desktop.jpg)
