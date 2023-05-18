@@ -17,12 +17,12 @@
     - [Footer](#footer)
 10. [File Structure](#file-structure)
 11. [Performance and Functionality Analysis](#performance-and-functionality-analysis)
-   - [HTML Checker](#html-checker)
-   - [W3C CSS Validation Service](#w3c-css-validation-service)
-   - [Lighthouse Reports](#lighthouse-reports)
+    - [HTML Checker](#html-checker)
+    - [W3C CSS Validation Service](#w3c-css-validation-service)
+    - [Lighthouse Reports](#lighthouse-reports)
 12. [Experience and Personal Opinion](#experience-and-personal-opinion)
 
-#
+[Up](#NOM-CONN)#
 ## RELEVANT LINKS
 To visit the page, go to:
 [https://escfox.github.io/Milestone1/](https://escfox.github.io/Milestone1/)
