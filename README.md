@@ -43,10 +43,17 @@ I have chosen the combination of:
 ## Color Scheme
 
 The color palette consists of 4 colors, offering an elegant result:
-- #FFFFFF: ![Image](./pallete/FFFFFF.jpg)
-- #36B3A8: ![Image](./pallete/36B3A8.jpg)
-- #000000: ![Image](./pallete/000000.jpg)
-- #1f1f1f: ![Image](./pallete/1F1F1F.jpg)
+- #FFFFFF: 
+![Image](./pallete/FFFFFF.jpg)
+
+- #36B3A8: 
+![Image](./pallete/36B3A8.jpg)
+
+- #000000: 
+![Image](./pallete/000000.jpg)
+
+- #1f1f1f: 
+![Image](./pallete/1F1F1F.jpg)
 
 ## Imagery
 
