@@ -159,17 +159,6 @@ We have also generated Lighthouse reports using Google DevTools. Click the links
 
 
 
-- [Lighthouse Report for Index (Desktop)](./escfox.github.io-20230518T095837_home_desktop.html)
-- [Lighthouse Report for Index (Mobile)](./escfox.github.io-20230518T100251_home_mobile.html)
-
-- [Lighthouse Report for Services (Desktop)](./escfox.github.io-20230518T095837_services_desktop.html)
-- [Lighthouse Report for Services (Mobile)](./escfox.github.io-20230518T095837_services_mobile.html)
-
-- [Lighthouse Report for Activities (Desktop)](./escfox.github.io-20230518T095837_activties_desktop.html)
-- [Lighthouse Report for Activities (Mobile)](./escfox.github.io-20230518T095837_activties_mobile.html)
-
-
-
 
 ## Experience and Personal Opinion
 
