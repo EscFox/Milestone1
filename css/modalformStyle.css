@@ -10,12 +10,14 @@
 
 
 #bookingform .modal-footer button:nth-child(1) {
+/* #SendModalFormbtn{ */
     background: var(--primarycolor);
-    color: white;
+    background-color: #36b3a8;
     font-size: 1.2rem;
     border-radius: 2rem;
 }
 #bookingform .modal-footer button:nth-child(2) {
+/* #CancelModalFormbtn{ */
     background:black;
     font-size: 1.2rem;
     border-radius: 2rem;
