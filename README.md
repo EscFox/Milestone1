@@ -3,23 +3,24 @@
 # Table of Contents
 
 
-3. [Relevant Links](#relevant-links)
-4. [Technology](#technology)
-5. [External Tools](#external-tools)
-6. [Typography](#typography)
-7. [Color Scheme](#color-scheme)
-8. [Imagery](#imagery)
-9. [Icons](#icons)
-10. [Web Page Design](#web-page-design)
+1. [Relevant Links](#relevant-links)
+1. [Description](#DESCRIPTION)
+3. [Technology](#technology)
+4. [External Tools](#external-tools)
+5. [Typography](#typography)
+6. [Color Scheme](#color-scheme)
+7. [Imagery](#imagery)
+8. [Icons](#icons)
+9. [Web Page Design](#web-page-design)
   - [Header](#header)
   - [Body](#body)
   - [Footer](#footer)
 - [File Structure](#file-structure)
-11. [Performance and Functionality Analysis](#performance-and-functionality-analysis)
+10. [Performance and Functionality Analysis](#performance-and-functionality-analysis)
    - [HTML Checker](#html-checker)
    - [W3C CSS Validation Service](#w3c-css-validation-service)
    - [Lighthouse Reports](#lighthouse-reports)
-12. [Experience and Personal Opinion](#experience-and-personal-opinion)
+11. [Experience and Personal Opinion](#experience-and-personal-opinion)
 
 #
 ## RELEVANT LINKS
@@ -34,6 +35,7 @@ To clone it, use:
 git clone git@github.com:EscFox/Milestone1.git
 #
 
+## DESCRIPTION
 Nom-Conn is a service offering accommodation and activity provider for those workers known as digital nomads who can perform their work in remote locations.
 
 Nom-Conn offers a wide range of services and activities that encourage the professional and personal connectivity of those who visit their facilities.
